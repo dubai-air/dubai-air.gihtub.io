@@ -1,7 +1,9 @@
+---
 theme: jekyll-theme-minimal
 layout: page
 title: Dubai Air
 permalink: /
+---
 
 # Dubai Air
 
