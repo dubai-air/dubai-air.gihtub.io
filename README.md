@@ -1,8 +1,7 @@
----
 theme: jekyll-theme-minimal
+layout: page
 title: Dubai Air
-description: Bookmark this to keep an eye on my project updates!
----
+permalink: /
 
 # Dubai Air
 
